@@ -1,1 +1,1 @@
-# darkmode
+# dark-mode
